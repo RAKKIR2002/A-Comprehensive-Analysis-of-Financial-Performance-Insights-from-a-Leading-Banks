@@ -8,4 +8,4 @@ dashboard public link - https://public.tableau.com/views/FinancialAnalysisofBank
 story public link - https://public.tableau.com/views/Storyboardofbanks/Story2?:language=en-US&:embed=y&:embed_code_version=3&:loadOrderID=1&:display_count=y&publish=yes&:origin=viz_share_link
 
 
-video demonstration link =
+video demonstration link = https://github.com/RAKKIR2002/A-Comprehensive-Analysis-of-Financial-Performance-Insights-from-a-Leading-Banks/blob/main/explanation%20video%20of%20project.mp4
